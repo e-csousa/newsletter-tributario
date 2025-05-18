@@ -24,7 +24,7 @@ Para executar este projeto, siga os passos abaixo:
     *   Adicione um novo segredo com o nome `GOOGLE_API_KEY` e cole o valor da sua chave da API do Google Gemini.
 4.  **Execute as células do notebook sequencialmente.** As dependências serão instaladas automaticamente (`google-genai`, `google-adk`).
 5.  **Siga as instruções no output para fornecer o tópico tributário desejado.**
-6.  **Observe o output dos agentes** e o resultado final da newsletter revisada.
+6.  **Observe o output dos agentes** e o resultado final da newsletter revisada direcionado ao município de Salvador-BA.
 
 ## Dependências
 
