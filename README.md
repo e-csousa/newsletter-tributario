@@ -44,5 +44,3 @@ Estas dependências são instaladas automaticamente ao executar as células do n
 [ecs]
 
 ---
-
-**Nota:** Lembre-se de substituir `<URL_DO_SEU_REPOSITORIO>` e `<NOME_DO_SEU_REPOSITORIO>` com as informações relevantes do seu repositório no GitHub. Adapte a seção "Licença" conforme a licença que você escolher.
